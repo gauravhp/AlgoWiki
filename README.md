@@ -41,10 +41,6 @@ On the Internet, there is a vast ocean of knowledge on different and varied topi
 * [Open Source Guide](https://opensource.guide/)
 * [Discrete Mathematics](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Discrete%20Mathematics/discrete-math.md)
 
-How to Contribute
-==================
-We are collecting links to websites and resources. Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com 
-
 Read Our Contribution Page
 =======================
 * [Contributing to this repository](https://github.com/vicky002/Wiki_Knowledge/wiki/Contribution)
@@ -82,5 +78,3 @@ Topics
 There are many topics, you can contribute to – Just create topics and add resources to it!
 
 Built with :heart: in GitHub! 
-
-LICENCE: [MIT](LICENSE) (c) Vikesh Tiwari, AlgoWiki
